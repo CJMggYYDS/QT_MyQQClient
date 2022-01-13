@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bold.png</file>
+        <file>image/clear.png</file>
+        <file>image/color.png</file>
+        <file>image/italic.png</file>
+        <file>image/qq02.png</file>
+        <file>image/save.png</file>
+        <file>image/under.png</file>
+        <file>image/bg1.jpg</file>
+        <file>image/qq.png</file>
+        <file>image/bg2.gif</file>
+        <file>image/bg3.jfif</file>
+        <file>image/bg4.jfif</file>
+        <file>image/bg5.jfif</file>
+        <file>image/bg6.jfif</file>
+        <file>image/sendall.png</file>
+    </qresource>
+</RCC>
